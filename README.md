@@ -1,5 +1,5 @@
 # spark-wordcount
-WordCount in Spark.
+WordCount Program in Spark.
 
 For Detasiled information, PLease check below link
 
